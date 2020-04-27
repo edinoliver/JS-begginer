@@ -3,7 +3,8 @@
 JavaScript passo a passo.
 
 Aqui irei mostrar todo o aprendizado de um curso realizado para aprender JS. 
-Note que antes nunca realizei nenhum estudo voltado a área de programaçãp. Assim estaremos embarcando nessa jornada do zero.
+Note que antes nunca realizei nenhum estudo voltado a área de programação. 
+Assim estaremos embarcando nessa jornada do zero.
 
 O curso é disponibilizado pela Skylab, onde aborda os seguintes temas:
 
