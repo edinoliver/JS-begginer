@@ -3,4 +3,21 @@ Curso JavaScript:
 # Assunto: Operações matemáticas 
 # Autor:   Edson Oliveira
 
-a
+<html>
+    <head>
+        <title> Curso JavaScript</title>
+    </head>
+    <body>
+    
+      <script>
+      
+          var x = 10;
+          var y = 20;
+          var resultado = x + y;
+          
+          console.log(resultado)
+          
+      </script>
+    
+    </body>
+</html>
