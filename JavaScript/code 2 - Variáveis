@@ -3,4 +3,28 @@ Curso JavaScript:
 # Assunto: Variáveis 
 # Autor:   Edson Oliveira
 
-a
+<html>
+    <head>
+        <title> Curso JavaScript</title>
+    </head>
+    <body>
+    
+        <script>
+            var nome = "Francisco";
+            var idade = 20;
+            var peso = 61.2;
+            var humano = true;
+    
+            var alunos = ["Francisco", "Maria", "Ana"]
+    
+            var aluno = {
+                nome: "Francisco",
+                idade: 20,
+                peso: 61.2,
+                humano: true };
+                
+                //console.log(aluno.peso)
+    </script>
+    
+    </body>
+</html>
