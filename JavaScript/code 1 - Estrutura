@@ -1,1 +1,20 @@
-a
+Curso JavaScript:
+
+# Assunto: Estrutura 
+# Autor:   Edson Oliveira
+
+<html>
+    <head>
+        <title> Curso JavaScript</title>
+    </head>
+    <body>
+    
+        <script>
+            
+            var nome = "Francisco"
+
+            console.log(nome)
+
+        </script>
+    </body>
+</html>
